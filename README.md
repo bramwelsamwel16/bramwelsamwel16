@@ -33,6 +33,9 @@ I'm a detail-oriented **Data Analyst** with a mathematics background, focused on
 ---
 
 ### Featured Projects
+**🔹 HR Employee Attrition Analysis** — `SQL` `Power BI` `Excel`
+Analyzed 1,470 employee records to identify key attrition drivers — overtime, job role, and tenure — cutting through the noise to flag Sales Representatives working overtime as the highest-risk group (66.7% attrition). Includes full SQL analysis and interactive Power BI dashboard.
+🔗 [View Project](https://github.com/bramwelsamwel16/hr-attrition-analysis)
 
 **🔹 Customer Churn Analysis** — `SQL` `Python` `Power BI`
 Cleaned and queried a 2,000-record customer dataset, performed EDA to identify churn drivers (85% prediction accuracy), and built a Power BI dashboard that flagged 20% of at-risk customers for retention outreach.
